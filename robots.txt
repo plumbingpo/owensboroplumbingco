@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://owensboroplumbingco.com/sitemap.xml
